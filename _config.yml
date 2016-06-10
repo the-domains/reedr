@@ -1,19 +1,31 @@
-typography_spectrum: 0.7561699096113443
+author:
+  name: Florian Tange
+  email: flo@tange.de
+  url: tange.de
+title: gut zu Vögeln
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.6574998635333031
-  lightness: 0.6799170919694006
-  saturation: 0.07324257749132812
-  rhythmicContrast: 0.7437118133530021
+  saturation: 0.6446809
+  brandStrength: 0
+  lightness: 0.4212766
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.038710772758349776
-author:
-  name: Florian Tange
-  email: flo@tange.de
-  url: tange.de
+  rhythmicContrast: 0.7574468
+typography_spectrum: 0.5957447
+layout_spectrum: 0.7510638
 name: reedr
-title: gut zu Vögeln
