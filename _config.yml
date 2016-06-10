@@ -1,4 +1,3 @@
-layout_spectrum: 0.038710772758349776
 typography_spectrum: 0.7561699096113443
 color:
   brandStrength: 0.6574998635333031
@@ -11,4 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.038710772758349776
+author:
+  name: Florian Tange
+  email: flo@tange.de
+  url: tange.de
 name: reedr
+title: gut zu Vögeln
