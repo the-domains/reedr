@@ -4,7 +4,7 @@
         <description><![CDATA[gut zu Vögeln]]></description>
         <link>http://reedr.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 08:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 08:56:24 GMT</lastBuildDate>
         <atom:link href="http://reedr.de/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[der Star]]></title>
@@ -12,6 +12,13 @@
             <link>http://reedr.de/der-star/index.html</link>
             <guid isPermaLink="false">1be78c1c-f74d-49e4-9a1b-3ee1f0bd1cbc</guid>
             <pubDate>Fri, 10 Jun 2016 08:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York]]></title>
+            <description><![CDATA[<article><h1>Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York</h1><p>Apple has formally challenged the U.S. Department of Justice over another locked iPhone and the encrypted information it contains. Owned by an accused methamphetamine distributor in Brooklyn, the iPhone 5s is believed to contain evidence of a drug conspiracy, investigators said. The government claims that its technicians can't penetrate the locked iPhone and require Apple's help to get inside.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e2b247bd692aae20a13780b947564a437b6201a.jpg"></article>]]></description>
+            <link>http://www.buzzfeed.com/hamzashaban/apple-challenges-government-demand-to-crack-drug-dealers-iph#.lyz519Bpy</link>
+            <guid isPermaLink="false">1022a2e9-6db3-4996-adc9-7960a6d8fdb4</guid>
+            <pubDate>Fri, 10 Jun 2016 08:42:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
